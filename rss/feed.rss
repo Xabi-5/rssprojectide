@@ -7,11 +7,18 @@
         <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
         <managingEditor>A22JavierLM@iessanclemente.net</managingEditor>
         <item>
-            <title>Test page</title>
-            <link>https://xabi-5.github.io/rssprojectide/</link>
+            <title>Eclipse</title>
+            <link>https://xabi-5.github.io/rssprojectide/eclipse.html</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>Eclipse quickhacks</description>
         </item>
+        <item>
+            <title>NetBeans</title>
+            <link>https://xabi-5.github.io/rssprojectide/netbeans.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Netbeans tips</description>
+        </item>
+        
         </channel>
        
 </rss>
